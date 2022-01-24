@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <script language="JavaScript">
+    function showInput() {
+      var yourtext = document.getElementById("user_input").value;
+      var alltext = document.getElementsByClassName('display');
+      for (var i = 0; i < alltext.length; i++) {
+        alltext.item(i).innerHTML = yourtext;
+      }
+    }
+  </script>
+
+  </head>
+<body>
+
+  <form>
+    <label><b>Enter a Message</b></label>
+    <input type="text" name="message" id="user_input">
+  </form>
+
+  <input type="submit" onclick="showInput();"><br/>
+  <label>Your input: </label>
+  <div class = "fontSection">
+    <div class = "font1" > <p><span class='display'>1 - Vanity</span></p> </div>
+    <div class = "font2" > <p><span class='display'>2 - Satisfy</span></p> </div>
+    <div class = "font3" > <p><span class='display'>3 - Rasthmon</span></p> </div>
+    <div class = "font4" > <p><span class='display'>4 - Sofia</span></p> </div>
+    <div class = "font5" > <p><span class='display'>5 - Yellowtail</span></p> </div>
+
+  </div>
+  
+</body>
+</html>

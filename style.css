@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Vanity";
+    src: url("/fonts/Vanity-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Satisfy";
+    src: url("/fonts/Satisfy-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Rasthmon";
+    src: url("/fonts/Rasthmon Brush Demo.otf");
+}
+
+@font-face {
+    font-family: "Sofia";
+    src: url("/fonts/Satisfy-Regular.otf");
+}
+
+@font-face {
+    font-family: "Yellotail";
+    src: url("/fonts/Yellowtail-Regular.ttf");
+}
+
+
+.fontSection {
+    padding-top: 0.5em;
+    font-size: 3em;
+}
+
+.fontSection > div {
+    margin-top: -60px;
+    padding-top: 0px;
+}
+
+.font1 {
+    font-family: "Vanity";
+}
+
+.font2 {
+    font-family: "Satisfy";
+}
+
+.font3 {
+    font-family: "Rasthmon";
+}
+
+.font4 {
+    font-family: "Sofia";
+}
+
+.font5 {
+    font-family: "Yellowtail";
+}
