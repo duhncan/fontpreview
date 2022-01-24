@@ -1,26 +1,26 @@
 @font-face {
     font-family: "Vanity";
-    src: url("https://raw.githubusercontent.com/duhncan/fontpreview/fonts/Vanity-bold.ttf");
+    src: url("../fontpreview/fonts/Vanity-bold.ttf");
 }
 
 @font-face {
     font-family: "Satisfy";
-    src: url("https://raw.githubusercontent.com/duhncan/fontpreview/fonts/Satisfy-Regular.ttf");
+    src: url("../fontpreview/fonts/Satisfy-Regular.ttf");
 }
 
 @font-face {
     font-family: "Rasthmon";
-    src: url("https://raw.githubusercontent.com/duhncan/fontpreview/fonts/Rasthmon Brush Demo.otf");
+    src: url("../fontpreview/fonts/Rasthmon Brush Demo.otf");
 }
 
 @font-face {
     font-family: "Sofia";
-    src: url("https://raw.githubusercontent.com/duhncan/fontpreview/fonts/Satisfy-Regular.otf");
+    src: url("../fontpreview/fonts/Satisfy-Regular.otf");
 }
 
 @font-face {
     font-family: "Yellotail";
-    src: url("https://raw.githubusercontent.com/duhncan/fontpreview/fonts/Yellowtail-Regular.ttf");
+    src: url("../fontpreview/fonts/Yellowtail-Regular.ttf");
 }
 
 .fontSection {
