@@ -23,16 +23,10 @@
     src: url("/fonts/Yellowtail-Regular.ttf");
 }
 
-
 .fontSection {
-    padding-top: 0.5em;
     font-size: 3em;
 }
 
-.fontSection > div {
-    margin-top: -60px;
-    padding-top: 0px;
-}
 
 .font1 {
     font-family: "Vanity";
