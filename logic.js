@@ -2,9 +2,8 @@
 
 function showInput() {
     var yourtext = document.getElementById("user_input").value;
-    var alltext = document.getElementsByClassName('display');
+    var alltext = document.getElementsByClassName('textChange');
     for (var i = 0; i < alltext.length; i++) {
       alltext.item(i).innerHTML = yourtext;
-      // alltext.item(i).innerHTML = (i+1)+": "+yourtext;
     }
   }
