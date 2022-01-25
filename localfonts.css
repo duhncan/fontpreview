@@ -1,54 +1,89 @@
-@font-face {
-    font-family: "Vanity";
-    src: url("./fonts/Vanity-bold.ttf");
-}
-
-@font-face {
-    font-family: "Satisfy";
-    src: url("./fonts/Satisfy-Regular.ttf");
-}
-
-@font-face {
-    font-family: "Rasthmon";
-    src: url("./fonts/Rasthmon Brush Demo.otf");
-}
-
-@font-face {
-    font-family: "Sofia";
-    src: url("./fonts/Satisfy-Regular.otf");
-}
-
-@font-face {
-    font-family: "Yellowtail";
-    src: url("./fonts/Yellowtail-Regular.ttf");
-}
-
-/* @font-face {
-    font-family: "Yellowtail";
-    src: url("../fontpreview/fonts/Yellowtail-Regular.ttf");
-} */
+@font-face { font-family: "1"; src: url("./fonts/Allesio.ttf") format("truetype");}
+@font-face { font-family: "2"; src: url("./fonts/Allisha\ Croft.ttf") format("truetype");}
+@font-face { font-family: "3"; src: url("./fonts/AmandaVinola.ttf") format("truetype");}
+@font-face { font-family: "4"; src: url("./fonts/Satisfy-Regular.ttf") format("truetype");}
+@font-face { font-family: "5"; src: url("./fonts/AnghonesL.ttf") format("truetype");}
+@font-face { font-family: "6"; src: url("./fonts/ArtelyInksPersonalUse-vpWL.ttf") format("truetype");}
+@font-face { font-family: "7"; src: url("./fonts/AusthaticScript-3z1lM.ttf") format("truetype");}
+@font-face { font-family: "8"; src: url("./fonts/Baby\ Garland.ttf") format("truetype");}
+@font-face { font-family: "9"; src: url("./fonts/Bagelorts.ttf") format("truetype");}
+@font-face { font-family: "10"; src: url("./fonts/Barcelona.ttf") format("truetype");}
+@font-face { font-family: "11"; src: url("./fonts/Beautiful\ Snowfall\ Font\ by\ Dani\ 7NTypes.otf") format("opentype");}
+@font-face { font-family: "12"; src: url("./fonts/Bellasia.ttf") format("truetype");}
+@font-face { font-family: "13"; src: url("./fonts/BillionDreams_PERSONAL.ttf") format("truetype");}
+@font-face { font-family: "14"; src: url("./fonts/Breathing.ttf") format("truetype");}
+@font-face { font-family: "15"; src: url("./fonts/BRUSHSCI.TTF") format("truetype");}
+@font-face { font-family: "16"; src: url("./fonts/Boba.ttf") format("truetype");}
+@font-face { font-family: "17"; src: url("./fonts/Sofia-Regular.otf") format("opentype");}
+@font-face { font-family: "18"; src: url("./fonts/Chloe\ Lavender.ttf") format("truetype");}
+@font-face { font-family: "19"; src: url("./fonts/EcosmithScript-Regular.otf") format("opentype");}
+@font-face { font-family: "20"; src: url("./fonts/FabfeltScript-Bold.otf") format("opentype");}
+@font-face { font-family: "21"; src: url("./fonts/Fireheart.ttf") format("truetype");}
+@font-face { font-family: "22"; src: url("./fonts/FREESCPT.TTF") format("truetype");}
+@font-face { font-family: "23"; src: url("./fonts/Grestal.ttf") format("truetype");}
+@font-face { font-family: "24"; src: url("./fonts/Higher\ Style.ttf") format("truetype");}
+@font-face { font-family: "25"; src: url("./fonts/Ladytop.ttf") format("truetype");}
+@font-face { font-family: "26"; src: url("./fonts/Loverine.otf") format("opentype");}
+@font-face { font-family: "27"; src: url("./fonts/LHANDW.TTF") format("truetype");}
+@font-face { font-family: "28"; src: url("./fonts/MISTRAL.TTF") format("truetype");}
+@font-face { font-family: "29"; src: url("./fonts/Thunder.ttf") format("truetype");}
+@font-face { font-family: "30"; src: url("./fonts/Tilda\ Script\ S\ Non-connect\ Demo.otf") format("opentype");}
+@font-face { font-family: "31"; src: url("./fonts/Valentina\ Script.ttf") format("truetype");}
+@font-face { font-family: "32"; src: url("./fonts/VLADIMIR.TTF") format("truetype");}
+@font-face { font-family: "33"; src: url("./fonts/Welcome\ Newyear.otf") format("truetype");}
+@font-face { font-family: "34"; src: url("./fonts/Wisdom\ Script\ AJ.otf") format("opentype");}
+@font-face { font-family: "35"; src: url("./fonts/Yellowtail-Regular.ttf") format("truetype");}
+@font-face { font-family: "36"; src: url("./fonts/Odyssey\ Pro.otf") format("opentype");}
+@font-face { font-family: "37"; src: url("./fonts/Concept\ Bold.ttf") format("truetype");}
+@font-face { font-family: "38"; src: url("./fonts/FELIXTI.TTF") format("truetype");}
+@font-face { font-family: "39"; src: url("./fonts/Stem\ Medium.ttf") format("truetype");}
+@font-face { font-family: "40"; src: url("./fonts/Favoner\ One.otf") format("opentype");}
 
 .fontSection {
-    font-size: 3em;
+    font-size: 5vw;
+    text-align: center;
 }
 
+.font1 {    font-family: "1"; }
+.font2 {    font-family: "2"; }
+.font3 {    font-family: "3"; }
+.font4 {    font-family: "4"; }
+.font5 {    font-family: "5";}
+.font6 {    font-family: "6"; }
+.font7 {    font-family: "7"; }
+.font8 {    font-family: "8";}
+.font9 {    font-family: "9"; }
+.font10 {   font-family: "10";}
+.font11 {    font-family: "11"; }
+.font12 {    font-family: "12"; }
+.font13 {    font-family: "13"; }
+.font14 {    font-family: "14"; }
+.font15 {    font-family: "15";}
+.font16 {    font-family: "16"; }
+.font17 {    font-family: "17"; }
+.font18 {    font-family: "18";}
+.font19 {    font-family: "19"; }
+.font20 {   font-family: "20";}
+.font21 {    font-family: "21"; }
+.font22 {    font-family: "22"; }
+.font23 {    font-family: "23"; }
+.font24 {    font-family: "24"; }
+.font25 {    font-family: "25";}
+.font26 {    font-family: "26"; }
+.font27 {    font-family: "27"; }
+.font28 {    font-family: "28";}
+.font29 {    font-family: "29"; }
+.font30 {   font-family: "39";}
+.font31 {    font-family: "31"; }
+.font32 {    font-family: "32"; }
+.font33 {    font-family: "33"; }
+.font34 {    font-family: "34"; }
+.font35 {    font-family: "35";}
+.font36 {    font-family: "36"; }
+.font37 {    font-family: "37"; }
+.font38 {    font-family: "38";}
+.font39 {    font-family: "39"; }
+.font40 {   font-family: "40";}
 
-.font1 {
-    font-family: "Vanity";
-}
 
-.font2 {
-    font-family: "Satisfy";
-}
 
-.font3 {
-    font-family: "Rasthmon";
-}
-
-.font4 {
-    font-family: "Sofia";
-}
-
-.font5 {
-    font-family: "Yellowtail";
-}
