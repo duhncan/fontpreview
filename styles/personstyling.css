@@ -1,0 +1,5 @@
+.logoColor path {
+    background-color: red;
+    -webkit-mask: url(logo-jan22.svg) no-repeat center;
+    mask: url(logo-jan22.svg) no-repeat center;
+}
